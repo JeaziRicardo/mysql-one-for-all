@@ -54,3 +54,10 @@ CREATE TABLE SpotifyClone.history(
     FOREIGN KEY (song_id) REFERENCES SpotifyClone.songs(song_id),
     FOREIGN KEY (user_id) REFERENCES SpotifyClone.users(user_id)
 ) ENGINE = InnoDB;
+
+INSERT INTO SpotifyClone.plans (plan, plan_value)
+VALUES
+  ('gratuito', 0),
+  ('familiar', 7.99),
+  ('universitário', 5.99),
+  ('pessoal', 6.99);
