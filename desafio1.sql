@@ -135,7 +135,7 @@ VALUES
   ('She Knows', 244, 3),
   ('Fantasy For Me', 100, 4),
   ('Celebration Of More', 146, 4),
-  ('Rock His Everything', 233, 4),
+  ('Rock His Everything', 223, 4),
   ('Home Forever', 231, 4),
   ('Diamond Power', 241, 4),
   ('Let\'s Be Silly', 132, 4),
